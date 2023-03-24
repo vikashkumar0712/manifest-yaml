@@ -18,7 +18,7 @@ spec:
       - name: regsecret
       containers:
       - name: react-app
-        image: 947841444229.dkr.ecr.us-east-2.amazonaws.com/react-image:a382d9c248f9678009a135f5bafeb0bb05057d08
+        image: 947841444229.dkr.ecr.us-east-2.amazonaws.com/react-image:c3ba220f6d311afd36f22a3f798554040c841039
         imagePullPolicy: Always
         ports:
         - containerPort: 3000
